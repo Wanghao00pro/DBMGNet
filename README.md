@@ -27,4 +27,3 @@ Patch Size: 7x7
 
 Optimizer: Adam (weight_decay=1.1e-3)
 
-Scheduler: CosineAnnealingLR
