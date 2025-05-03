@@ -12,17 +12,6 @@ from torch_geometric.nn.conv import MessagePassing
 from torch_geometric.utils import add_self_loops, get_laplacian
 import torch.nn.functional as F
 
-#GraFormer
-
-"""
-@inproceedings{wu2021graph,
-title={Graph-based 3d multi-person pose estimation using multi-view images},
-author={Wu, Size and Jin, Sheng and Liu, Wentao and Bai, Lei and Qian, Chen and Liu, Dong and Ouyang, Wanli},
-booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-pages={11148--11157},
-year={2021}
-}
-"""
 
 def cheby(i,x):
     if i==0:
