@@ -22,7 +22,7 @@ PyTorch codes for "[DBMGNet: A Dual-Branch Mamba-GCN Network for Hyperspectral I
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
-@ARTICLE{10976709,
+@ARTICLE{wang2025dbmgnet,
   author={Wang, Hao and Zhuang, Peixian and Zhang, Xiaochen and Li, Jiangyun},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={DBMGNet: A Dual-Branch Mamba-GCN Network for Hyperspectral Image Classification}, 
@@ -30,8 +30,7 @@ PyTorch codes for "[DBMGNet: A Dual-Branch Mamba-GCN Network for Hyperspectral I
   volume={63},
   number={},
   pages={1-17},
-  keywords={Feature extraction;Transformers;Computational modeling;Convolution;Hyperspectral imaging;Computer architecture;Data models;Computational complexity;Data mining;Image classification;Dual-branch;graph convolutional network (GCN);hyperspectral image (HSI) classification;Mamba},
-  doi={10.1109/TGRS.2025.3564364}}
+  publisher={IEEE}}
 ```
 
 
